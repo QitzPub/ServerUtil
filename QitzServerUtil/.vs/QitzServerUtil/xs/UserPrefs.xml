@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{E49D601B-ED7E-6F38-F26E-FBC7D1BE8436}|">
+  <MonoDevelop.Ide.ItemProperties.QitzServerUtil PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/QitzServerUtil.cs">
+    <Files>
+      <File FileName="Assets/Scripts/QitzServerUtil.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
